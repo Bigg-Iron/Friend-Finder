@@ -2,7 +2,7 @@
 var friends = [
 
     {
-      'name': "Cookaboo",
+      'name': "User 1",
       'photo': 'photo link goes here',
       'scores': [
           5,
@@ -70,8 +70,8 @@ var friends = [
       },
 
       {
-        'name': "User 5",
-        'photo': 'photo link goes here',
+        'name': "Cookaboo",
+        'photo': 'https://www.marylandalpacafarm.com/wp-content/uploads/2016/12/Kookaboo4_GreatSuriLocks.jpg',
         'scores': [
             5,
             5,
